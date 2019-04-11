@@ -4,21 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.fisher</groupId>
-    <artifactId>fisher</artifactId>
+    <groupId>com.distance</groupId>
+    <artifactId>distance</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>fisher-auth</module>
-        <module>fisher-back</module>
-        <module>fisher-common</module>
-        <module>fisher-gateway</module>
-        <module>fisher-log</module>
-        <module>fisher-starter</module>
-        <module>fisher-gen</module>
-        <module>fisher-file</module>
-        <module>fisher-transaction</module>
-        <module>fisher-monitor</module>
+        <module>distance-auth</module>
+        <module>distance-back</module>
+        <module>distance-common</module>
+        <module>distance-gateway</module>
+        <module>distance-log</module>
+        <module>distance-starter</module>
+        <module>distance-gen</module>
+        <module>distance-file</module>
+        <module>distance-transaction</module>
+        <module>distance-monitor</module>
     </modules>
 
     <parent>

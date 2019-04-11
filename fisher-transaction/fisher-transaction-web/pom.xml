@@ -3,19 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>fisher-transaction</artifactId>
-        <groupId>com.fisher.tsc</groupId>
+        <artifactId>distance-transaction</artifactId>
+        <groupId>com.distance.tsc</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.fisher.transaction</groupId>
-    <artifactId>fisher-transaction-console</artifactId>
+    <groupId>com.distance.transaction</groupId>
+    <artifactId>distance-transaction-console</artifactId>
 
     <dependencies>
         <!--<dependency>-->
-            <!--<groupId>com.fisher.common</groupId>-->
-            <!--<artifactId>fisher-common</artifactId>-->
+            <!--<groupId>com.distance.common</groupId>-->
+            <!--<artifactId>distance-common</artifactId>-->
             <!--<version>1.0-SNAPSHOT</version>-->
         <!--</dependency>-->
         <dependency>

@@ -3,14 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>fisher</artifactId>
-        <groupId>com.fisher</groupId>
+        <artifactId>distance</artifactId>
+        <groupId>com.distance</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.fisher.common</groupId>
-    <artifactId>fisher-common</artifactId>
+    <groupId>com.distance.common</groupId>
+    <artifactId>distance-common</artifactId>
 
     <dependencies>
         <dependency>

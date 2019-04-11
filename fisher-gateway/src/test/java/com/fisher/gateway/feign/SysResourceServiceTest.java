@@ -1,12 +1,14 @@
 package com.fisher.gateway.feign;
 
-import com.fisher.common.vo.SysResourceVO;
-import com.fisher.common.vo.SysUserVo;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
+
+import com.distance.common.vo.SysResourceVO;
+import com.distance.common.vo.SysUserVo;
+import com.distance.gateway.feign.SysResourceService;
 
 import java.util.Set;
 
